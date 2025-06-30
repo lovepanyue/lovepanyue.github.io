@@ -1,0 +1,3 @@
+title: 鹭泽有里咲的博客
+theme: minima  # 使用GitHub默认主题
+plugins: [jekyll-feed]
